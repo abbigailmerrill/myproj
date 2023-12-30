@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This projec was made in accordance with Code Stoic's Lectures on [Youtube](https://www.youtube.com/user/ashutoshpawar07). Give them a follow! They have the latest lessons to learn of React for free. I know they have helped me tremendously!
+
 ## Available Scripts
 
 In the project directory, you can run:
